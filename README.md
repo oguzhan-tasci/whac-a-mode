@@ -17,3 +17,6 @@
 * setInternal()
 * clearInternal()
 * alert()
+
+
+### Have a fun with it.
